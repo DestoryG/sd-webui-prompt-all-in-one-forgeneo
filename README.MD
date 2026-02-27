@@ -1,3 +1,5 @@
+This is sd-webui-prompt-all-in-one for the latest version of [Forge Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo), adapted for the latest Python 3.13 fixes, using Vibe coding.
+
 # sd-webui-prompt-all-in-one
 
 [![GitHub stars](https://img.shields.io/github/stars/Physton/sd-webui-prompt-all-in-one?style=flat-square)](https://github.com/Physton/sd-webui-prompt-all-in-one/stargazers)
